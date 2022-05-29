@@ -6,18 +6,23 @@ Education:
   - course: PhD in Psychology
     institution: Macquarie University
     year: 2018
-  - course: Bachelor of Science/Arts
-    institution: UNSW
-    year: 2010
   - course: Certificate IV in AUSLAN
     institution: TAFE NSW
     year: 2015
-email: "tukiattuquayefio@gmail.com"
+  - course: Bachelor of Science (Psychology with Honours)
+    institution: UNSW
+    year: 2010
+  - course: Bachelor of Arts (Modern Greek & French)
+    institution: UNSW
+    year: 2010
+
 highlight_name: true
 interests:
 - Data Science
 - fMRI
 - Psychology
+- Eating Behaviour
+- Gut Microbiome
 organisations:
 - name: UNSW
   url: https://www.unsw.edu.au
