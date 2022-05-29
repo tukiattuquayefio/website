@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: dark
 day_night: true
 font: ''
 font_size: L
@@ -19,9 +19,8 @@ description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
-
 email: tukiattuquayefio@gmail.com
-phone: 0410687739
+phone: '0410687739'
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -42,18 +41,6 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/tuki_nii'
-  # - icon: skype
-  #   icon_pack: fab
-  #   name: Skype Me
-  #   link: 'skype:echo123?call'
-  # - icon: keybase
-  #   icon_pack: fab
-  #   name: Chat on Keybase
-  #   link: 'https://keybase.io/'
-  # - icon: comments
-  #   icon_pack: fas
-  #   name: Discuss on Forum
-  #   link: 'https://discourse.gohugo.io'
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=e-q998gAAAAJ&hl=en
@@ -86,7 +73,7 @@ highlight: true
 highlight_languages:
   - r
   - python
-  - latex
+  - bash
 math: false
 diagram: false
 privacy_pack: false
